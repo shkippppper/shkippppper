@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any big gamedev projects**
 
-- 👨‍💻 All of my projects are available at [atitb.com](atitb.com)
+- 👨‍💻 All of my projects are available at [atitb.com](https://www.atitb.com)
 
 - 💬 Ask me about **Unity, C#, Python**
 
