@@ -27,6 +27,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shkippppper&" alt="shkippppper" /></p>
 
+#
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akakititberidze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akakititberidze" height="30" width="40" /></a>
@@ -34,5 +36,5 @@
 <a href="https://instagram.com/akakititberidze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akakititberidze" height="30" width="40" /></a>
 </p>
 
-#-
+#
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkippppper&label=Profile%20views&color=69b40e&style=plastic" alt="shkippppper" /> </p>
