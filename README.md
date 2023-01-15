@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akaki Titberidze</h1>
 <h3 align="center">A passionate Game Developer from Georgia (Country)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shkippppper&label=Profile%20views&color=69b40e&style=plastic" alt="shkippppper" /> </p>
-
 - 🔭 I’m currently working on **Creating a 3d roguelike**
 
 - 🌱 I’m currently learning **Web development (full-stack)**
@@ -27,3 +25,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shkippppper&" alt="shkippppper" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shkippppper&label=Profile%20views&color=69b40e&style=plastic" alt="shkippppper" /> </p>
