@@ -25,7 +25,7 @@
 
 <h3 align="center">My Streaks:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shkippppper&" alt="shkippppper" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shkippppper&" alt="shkippppper" /></p>
 
 #
 
