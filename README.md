@@ -18,7 +18,7 @@
 
 <h4 align="center"> 👨‍💻 All of my projects are available at https://www.atitb.com</h4>
 
-<h4 align="center"> 📫 How to reach me a.titberidze@yahoo.com</h4>
+<h4 align="center"> 📫 Reach me at a.titberidze@yahoo.com</h4>
 
 
 # 
