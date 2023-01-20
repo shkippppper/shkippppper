@@ -10,7 +10,7 @@
 
 <h3 align="center">Me:</h3>
 
-- 🔭 I’m currently working on **a 3d roguelike**
+<h4 align="center"> 🔭 I’m currently working on **a 3d roguelike**</h4>
 
 - 🌱 I’m currently learning **Web development (full-stack)**
 
