@@ -16,9 +16,9 @@
 
 <h4 align="center"> 💬 Ask me about **Unity, C#, Python**</h4>
 
-<h4 align="center"> 👨‍💻 All of my projects are available at [atitb.com](https://www.atitb.com)</h4>
+<h4 align="center"> 👨‍💻 All of my projects are available at </h4>[atitb.com](https://www.atitb.com)
 
-<h4 align="center"> 📫 How to reach me **a.titberidze@yahoo.com**</h4>
+<h4 align="center"> 📫 How to reach me a.titberidze@yahoo.com</h4>
 
 
 # 
