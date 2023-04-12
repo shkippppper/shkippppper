@@ -8,21 +8,6 @@
 
 #
 
-<h3 align="center">Me:</h3>
-
-<h4 align="center"> 🔭 I’m currently working on a 3d roguelike</h4>
-
-<h4 align="center"> 🌱 I’m currently learning Web development (full-stack)</h4>
-
-<h4 align="center"> 💬 Ask me about Unity, C#, Python</h4>
-
-<h4 align="center"> 👨‍💻 All of my projects are available at https://www.atitb.com</h4>
-
-<h4 align="center"> 📫 Reach me at a.titberidze@yahoo.com</h4>
-
-
-# 
-
 <h3 align="center">My Streaks:</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shkippppper&" alt="shkippppper" /></p>
