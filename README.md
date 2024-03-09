@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akaki Titberidze</h1>
 <h3 align="center">A passionate Game Developer from Georgia (Country)</h3>
+<h3 align="center"><a href="https://atitb.itch.io" target="_blank" rel="noreferrer">My Games</a></h3>
 
 #
 
